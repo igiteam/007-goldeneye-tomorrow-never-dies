@@ -38,9 +38,11 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 
 [https://archive.org/details/20240625_20240625_0532](https://archive.org/details/20240625_20240625_0532)
 
-[[https://github.com/Oglo12/n64-rom-archive/blob/main/GoldenEye%20007%20(U)%20[!].z64]](https://github.com/Oglo12/n64-rom-archive/blob/main/GoldenEye%20007%20(U)%20[!].z64)
+[https://github.com/Oglo12/n64-rom-archive/blob/main/GoldenEye%20007%20(U)%20[!].z64](https://github.com/Oglo12/n64-rom-archive/blob/main/GoldenEye%20007%20(U)%20[!].z64)
 
 [https://github.com/Oglo12/n64-rom-archive/blob/main/007%20-%20The%20World%20is%20Not%20Enough%20(U)%20[!].z64](https://github.com/Oglo12/n64-rom-archive/blob/main/007%20-%20The%20World%20is%20Not%20Enough%20(U)%20[!].z64)
+
+[https://archive.org/details/psx_007tnd](https://archive.org/details/psx_007tnd)
 
 ## Dev Environment
 
