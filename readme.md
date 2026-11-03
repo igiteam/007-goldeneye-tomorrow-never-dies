@@ -14,6 +14,8 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 
 [![Watch the video](https://img.youtube.com/vi/rNjrgezd9Iw/maxresdefault.jpg)](https://www.youtube.com/watch?v=rNjrgezd9Iw)
 
+[![How to Install Project Midas, the GoldenEye Community PC Port](https://img.youtube.com/vi/m-7eGP5TkHg/maxresdefault.jpg)](https://www.youtube.com/watch?v=m-7eGP5TkHg)
+
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
 
