@@ -21,15 +21,25 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 
 ### Reference Links
 [https://github.com/SunJaycy/GoldenEye-Recomp](https://github.com/SunJaycy/GoldenEye-Recomp)
+
 [https://github.com/SunJaycy/GoldenEye-Recomp/releases/tag/Goldeneye1.2.4](https://github.com/SunJaycy/GoldenEye-Recomp/releases/tag/Goldeneye1.2.4)
+
 [https://evilgames.eu/texture-packs/ge007-hd.htm](https://evilgames.eu/texture-packs/ge007-hd.htm)
+
 [https://n64vault.com/wiki:ge:xbla](https://n64vault.com/wiki:ge:xbla)
+
 [https://n64vault.wikidot.com/wiki:goldeneye](https://n64vault.wikidot.com/wiki:goldeneye)
+
 [https://github.com/NightfireResearch/nightfire-re](https://github.com/NightfireResearch/nightfire-re)
+
 [https://github.com/TGP482/007Nightfire-XBERecomp](https://github.com/TGP482/007Nightfire-XBERecomp)
+
 [https://archive.org/details/james-bond-007-nightfire-ps2-classics-vault-ps2-classics-slus20579](https://archive.org/details/james-bond-007-nightfire-ps2-classics-vault-ps2-classics-slus20579)
+
 [https://archive.org/details/20240625_20240625_0532](https://archive.org/details/20240625_20240625_0532)
+
 [[https://github.com/Oglo12/n64-rom-archive/blob/main/GoldenEye%20007%20(U)%20[!].z64]](https://github.com/Oglo12/n64-rom-archive/blob/main/GoldenEye%20007%20(U)%20[!].z64)
+
 [https://github.com/Oglo12/n64-rom-archive/blob/main/007%20-%20The%20World%20is%20Not%20Enough%20(U)%20[!].z64](https://github.com/Oglo12/n64-rom-archive/blob/main/007%20-%20The%20World%20is%20Not%20Enough%20(U)%20[!].z64)
 
 ## Dev Environment
