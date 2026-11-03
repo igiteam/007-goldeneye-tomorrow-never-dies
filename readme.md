@@ -42,6 +42,8 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 
 [https://github.com/Oglo12/n64-rom-archive/blob/main/007%20-%20The%20World%20is%20Not%20Enough%20(U)%20[!].z64](https://github.com/Oglo12/n64-rom-archive/blob/main/007%20-%20The%20World%20is%20Not%20Enough%20(U)%20[!].z64)
 
+[https://www.moddb.com/games/goldeneye-007/mods](https://www.moddb.com/games/goldeneye-007/mods)
+
 [https://github.com/anarqz/007-n64-export](https://github.com/anarqz/007-n64-export)
 
 [https://github.com/SunJaycy/GoldenEye-Recomp](https://github.com/SunJaycy/GoldenEye-Recomp)
@@ -49,6 +51,8 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 [https://goldeneyedepot.com/resources](https://goldeneyedepot.com/resources)
 
 [![https://www.moddb.com/mods/goldfinger-64/downloads/goldeneye-setup-editor-234](https://media.moddb.com/images/downloads/1/18/17932/ed.jpg)](https://www.moddb.com/mods/goldfinger-64/downloads/goldeneye-setup-editor-234)
+
+[![https://archive.org/details/geeditsetupeditorinstaller3](https://archive.org/download/geeditsetupeditorinstaller3/scr2.png)](https://archive.org/details/geeditsetupeditorinstaller3)
 
 [![https://github.com/carnivoroussociety/GoldEditor](https://goldeneyedepot.com/images/ge-editor.png)](https://github.com/carnivoroussociety/GoldEditor)
 
