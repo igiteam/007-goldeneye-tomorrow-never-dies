@@ -16,6 +16,10 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 
 [![How to Install Project Midas, the GoldenEye Community PC Port](https://img.youtube.com/vi/m-7eGP5TkHg/maxresdefault.jpg)](https://www.youtube.com/watch?v=m-7eGP5TkHg)
 
+[![How to Install Project Midas, the GoldenEye Community PC Port](https://img.youtube.com/vi/RSUlyMjCTzo/maxresdefault.jpg)](https://www.youtube.com/watch?v=RSUlyMjCTzo)
+
+https://www.youtube.com/watch?v=RSUlyMjCTzo
+
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
 
@@ -51,6 +55,10 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 [https://github.com/SunJaycy/GoldenEye-Recomp](https://github.com/SunJaycy/GoldenEye-Recomp)
 
 [https://goldeneyedepot.com/resources](https://goldeneyedepot.com/resources)
+
+[https://n64vault.com/ge-campaigns:tomorrow-never-dies-64](https://n64vault.com/ge-campaigns:tomorrow-never-dies-64)
+
+[https://github.com/DabDavis/perfect-dark-dabs-mod/releases](https://github.com/DabDavis/perfect-dark-dabs-mod/releases)
 
 [![https://www.moddb.com/mods/goldfinger-64/downloads/goldeneye-setup-editor-234](https://media.moddb.com/images/downloads/1/18/17932/ed.jpg)](https://www.moddb.com/mods/goldfinger-64/downloads/goldeneye-setup-editor-234)
 
