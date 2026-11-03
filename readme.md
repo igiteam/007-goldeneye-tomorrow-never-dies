@@ -48,9 +48,9 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 
 [https://goldeneyedepot.com/resources](https://goldeneyedepot.com/resources)
 
-[![https://github.com/carnivoroussociety/GoldEditor](https://goldeneyedepot.com/images/ge-editor.png)](https://github.com/carnivoroussociety/GoldEditor)
+[![https://www.moddb.com/mods/goldfinger-64/downloads/goldeneye-setup-editor-234](https://media.moddb.com/images/downloads/1/18/17932/ed.jpg)](https://www.moddb.com/mods/goldfinger-64/downloads/goldeneye-setup-editor-234)
 
-[https://archive.org/details/psx_007tnd](https://archive.org/details/psx_007tnd)
+[![https://github.com/carnivoroussociety/GoldEditor](https://goldeneyedepot.com/images/ge-editor.png)](https://github.com/carnivoroussociety/GoldEditor)
 
 [![007-goldeneye](https://raw.githubusercontent.com/igiteam/007-goldeneye-tomorrow-never-dies/refs/heads/main/007-goldeneye.png)](https://github.com/Oglo12/n64-rom-archive/blob/main/GoldenEye%20007%20(U)%20[!].z64)
 
