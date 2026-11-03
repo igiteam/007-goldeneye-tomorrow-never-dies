@@ -12,10 +12,19 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 ## 007 Goldeneye - Tomorrow Never Dies - the base of the gameplay
 [![Watch the video](https://img.youtube.com/vi/iBe-1_SuuYI/maxresdefault.jpg)](https://www.youtube.com/watch?v=iBe-1_SuuYI)
 
+[![Watch the video](https://img.youtube.com/vi/rNjrgezd9Iw/maxresdefault.jpg)](https://www.youtube.com/watch?v=rNjrgezd9Iw)
+
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
 
 [![wine windows games on macosx](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
+
+### Reference Links
+[https://github.com/SunJaycy/GoldenEye-Recomp](https://github.com/SunJaycy/GoldenEye-Recomp)
+[https://github.com/SunJaycy/GoldenEye-Recomp/releases/tag/Goldeneye1.2.4](https://github.com/SunJaycy/GoldenEye-Recomp/releases/tag/Goldeneye1.2.4)
+[https://evilgames.eu/texture-packs/ge007-hd.htm](https://evilgames.eu/texture-packs/ge007-hd.htm)
+[https://n64vault.com/wiki:ge:xbla](https://n64vault.com/wiki:ge:xbla)
+[https://n64vault.wikidot.com/wiki:goldeneye](https://n64vault.wikidot.com/wiki:goldeneye)
 
 
 ## Dev Environment
