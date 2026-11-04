@@ -62,7 +62,7 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 
 [![https://www.moddb.com/mods/goldfinger-64/downloads/goldeneye-setup-editor-234](https://media.moddb.com/images/downloads/1/18/17932/ed.jpg)](https://www.moddb.com/mods/goldfinger-64/downloads/goldeneye-setup-editor-234)
 
-[![007-goldeneye-tomorrow-never-dies-psx](https://img.youtube.com/vi/wTBnod-WsPY/maxresdefault.jpg)](https://www.youtube.com/watch?v=wTBnod-WsPY)
+[![007-goldeneye-tomorrow-never-dies-psx](https://img.youtube.com/vi/BsmgyP6zFLc/maxresdefault.jpg)](https://www.youtube.com/watch?v=BsmgyP6zFLc)
 
 [![https://archive.org/details/geeditsetupeditorinstaller3](https://archive.org/download/geeditsetupeditorinstaller3/scr2.png)](https://archive.org/details/geeditsetupeditorinstaller3)
 
