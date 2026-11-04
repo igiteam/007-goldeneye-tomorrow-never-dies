@@ -72,6 +72,8 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 
 [![007-goldeneye-tomorrow-never-dies](https://raw.githubusercontent.com/igiteam/007-goldeneye-tomorrow-never-dies/refs/heads/main/007-tomorrow-never-dies.png)](https://archive.org/details/psx_007tnd)
 
+[![007-goldeneye-tomorrow-never-dies-psx](https://img.youtube.com/vi/wTBnod-WsPY/maxresdefault.jpg)](https://www.youtube.com/watch?v=wTBnod-WsPY)
+
 
 ## Dev Environment
 
