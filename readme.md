@@ -62,6 +62,8 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 
 [![https://www.moddb.com/mods/goldfinger-64/downloads/goldeneye-setup-editor-234](https://media.moddb.com/images/downloads/1/18/17932/ed.jpg)](https://www.moddb.com/mods/goldfinger-64/downloads/goldeneye-setup-editor-234)
 
+[![007-goldeneye-tomorrow-never-dies-psx](https://img.youtube.com/vi/wTBnod-WsPY/maxresdefault.jpg)](https://www.youtube.com/watch?v=wTBnod-WsPY)
+
 [![https://archive.org/details/geeditsetupeditorinstaller3](https://archive.org/download/geeditsetupeditorinstaller3/scr2.png)](https://archive.org/details/geeditsetupeditorinstaller3)
 
 [![007 Goldeneye Tutorials](https://img.youtube.com/vi/iZ_7FB0MS3E/maxresdefault.jpg)](https://www.youtube.com/playlist?list=PLN3CpcQGSxY4)
@@ -71,8 +73,6 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 [![007-goldeneye](https://raw.githubusercontent.com/igiteam/007-goldeneye-tomorrow-never-dies/refs/heads/main/007-goldeneye.png)](https://github.com/Oglo12/n64-rom-archive/blob/main/GoldenEye%20007%20(U)%20[!].z64)
 
 [![007-goldeneye-tomorrow-never-dies](https://raw.githubusercontent.com/igiteam/007-goldeneye-tomorrow-never-dies/refs/heads/main/007-tomorrow-never-dies.png)](https://archive.org/details/psx_007tnd)
-
-[![007-goldeneye-tomorrow-never-dies-psx](https://img.youtube.com/vi/wTBnod-WsPY/maxresdefault.jpg)](https://www.youtube.com/watch?v=wTBnod-WsPY)
 
 
 ## Dev Environment
