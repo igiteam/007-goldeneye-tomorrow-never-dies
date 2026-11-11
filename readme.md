@@ -2,6 +2,9 @@
 ## 007 Goldeneye - Tomorrow Never Dies Remake
 A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation project.
 
+## Github Codespace
+[https://ominous-waddle-q5w5wrgrg5jf9rv5.github.dev/](https://ominous-waddle-q5w5wrgrg5jf9rv5.github.dev/)
+
 ## Github Treeview
 [https://treegit.macosxjs.com/?url=igiteam/007-goldeneye-tomorrow-never-dies
 ](https://treegit.macosxjs.com/?url=igiteam/007-goldeneye-tomorrow-never-dies)
@@ -27,6 +30,8 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 
 ### Reference Links
 [https://github.com/SunJaycy/GoldenEye-Recomp](https://github.com/SunJaycy/GoldenEye-Recomp)
+
+[https://github.com/igiteam/007-n64-the-world-is-not-enough](https://github.com/igiteam/007-n64-the-world-is-not-enough)
 
 [https://github.com/SunJaycy/GoldenEye-Recomp/releases/tag/Goldeneye1.2.4](https://github.com/SunJaycy/GoldenEye-Recomp/releases/tag/Goldeneye1.2.4)
 
@@ -63,6 +68,8 @@ A remake of *Tomorrow Never Dies* rebuilt in the 007 GoldenEye decompilation pro
 [![https://www.moddb.com/mods/goldfinger-64/downloads/goldeneye-setup-editor-234](https://media.moddb.com/images/downloads/1/18/17932/ed.jpg)](https://www.moddb.com/mods/goldfinger-64/downloads/goldeneye-setup-editor-234)
 
 [![007-goldeneye-tomorrow-never-dies-psx](https://img.youtube.com/vi/BsmgyP6zFLc/maxresdefault.jpg)](https://www.youtube.com/watch?v=BsmgyP6zFLc)
+
+[![007-goldeneye-the-world-is-not-enough-n64](https://img.youtube.com/vi/Bh7wvModqQY/maxresdefault.jpg)](https://www.youtube.com/watch?v=Bh7wvModqQY)
 
 [![https://archive.org/details/geeditsetupeditorinstaller3](https://archive.org/download/geeditsetupeditorinstaller3/scr2.png)](https://archive.org/details/geeditsetupeditorinstaller3)
 
